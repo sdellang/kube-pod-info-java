@@ -16,10 +16,6 @@ import java.io.PrintWriter;
 
 public class MessageServlet extends HttpServlet {
 
-    public static final String MESSAGE = "message";
-
-    private String message;
-
     @Override
     public void init(final ServletConfig config) throws ServletException {
         super.init(config);

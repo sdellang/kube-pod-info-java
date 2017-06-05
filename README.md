@@ -69,6 +69,6 @@ http://javatest-javatest.192.168.64.2.nip.io/
 
 You will see the names of the pods in your project and their ips.
 
-##Contributing
+## Contributing
 
 Feel free to contribute and extend this example by forking the project and sending PRs.

@@ -89,7 +89,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>org.openshift.quickstarts.undertow.servlet.ServletServer</mainClass>
+                                    <mainClass>it.redhat.examples.undertow.servlets.ServletServer</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
